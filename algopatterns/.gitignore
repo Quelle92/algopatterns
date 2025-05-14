@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.out
+*.exe
+*.o
+/build
+*.log
+.DS_Store
+.vscode/
+*.swp
