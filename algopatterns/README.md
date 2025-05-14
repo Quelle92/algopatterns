@@ -13,3 +13,5 @@ This repo contains reusable algorithm pattern templates in C++ and Python. Use t
 Each file has:
 - Clearly marked sections for base/recursive cases
 - Classical structure (minimal syntax, clean logic)
+
+This repo will be periodically updated with new content.
